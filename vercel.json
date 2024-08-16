@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "/weather.html"
+            "destination": "/Weather.html"
         }
     ]
 }
